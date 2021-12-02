@@ -1,9 +1,9 @@
 ### Oi, eu sou a Ana Paula! 👋
 ![capa](https://user-images.githubusercontent.com/82297186/144490186-16e4ac89-3f8d-4f79-9e04-e80f7f8d9476.png)
 ### Sejam todos muito bem vindos ao meu perfil no GitHub ❤️.
-### 🔭 Gosto de ser chamada por Karenina Arch, por amar a obra literária Anna Kariênina e ser apaixonada pelo siatema operacional Arch Linux.
+### 🔭 Gosto de ser chamada por Karenina Arch, por amar a obra literária Anna Kariênina e ser apaixonada pelo sistema operacional Arch Linux.
 ### 🌱 Tenho por objetivo fazer deste espaço um repositório e plataforma de divulgação de meus estudos em programação, matemática e design. Gosto muito de aprender, e por usar muitos programas GNU e admirar a filosofia open source, pretendo compartilhar o que for aprendendo.
-### Todo conteúdo aqui publicado, estará protegido sob Licença de Documentação Livre GNU (FDL) https://www.gnu.org/licenses/fdl-1.3.html. Acredito fortemente no estudo e trabalho em equipe para desenvolvimento pessoal e profissional, portanto, nada mais coerente do que o compartilhamento de minha aprendizagem.
+### Todo conteúdo aqui publicado, estará protegido sob Licença de Documentação Livre GNU (FDL) https://www.gnu.org/licenses/fdl-1.3.html, pois credito fortemente no estudo e trabalho em equipe para desenvolvimento pessoal e profissional, portanto, nada mais coerente do que o compartilhamento de minha aprendizagem.
 ### 😄 Pronomes: Ela/Dela
 ### ⚡ Fatos aleatórios: Amo pizza vegana, prefiro mais chocolate quente do que café e ouço black/death metal 🤘.
 ### 💬 Faltou alguma coisa? Por favor, me faça uma pergunta, vou ficar muito feliz em poder ajudar! Vamos juntos nessa jornada do conhecimento! 
