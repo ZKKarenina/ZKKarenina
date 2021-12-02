@@ -1,5 +1,5 @@
 ### Oi, eu sou a Ana Paula! 👋
-![ead](https://user-images.githubusercontent.com/82297186/144486862-a4347b0d-45ad-458f-8663-c725418bd318.jpg)
+![capa](https://user-images.githubusercontent.com/82297186/144490186-16e4ac89-3f8d-4f79-9e04-e80f7f8d9476.png)
 ### Sejam todos muito bem vindos ao meu perfil no GitHub ❤️.
 ### 🔭 Gosto de ser chamada por Karenina Arch, por amar a obra literária Anna Kariênina e ser apaixonada pelo siatema operacional Arch Linux.
 ### 🌱 Tenho por objetivo fazer deste espaço um repositório e plataforma de divulgação de meus estudos em programação, matemática e design. Gosto muito de aprender, e por usar muitos programas GNU e admirar a filosofia open source, pretendo compartilhar o que for aprendendo.
